@@ -8,7 +8,7 @@ namespace Q1
 {
     class Employee
     {
-        //this is a employee class
+       
        
         public int ID;
         public string Name;
