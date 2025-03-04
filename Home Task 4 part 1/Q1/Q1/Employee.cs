@@ -8,6 +8,7 @@ namespace Q1
 {
     class Employee
     {
+        //this is a employee class
        
         public int ID;
         public string Name;
@@ -21,7 +22,6 @@ namespace Q1
             Department = department;
             Salary = salary;
         }
-
         public void Display()
         {
 
