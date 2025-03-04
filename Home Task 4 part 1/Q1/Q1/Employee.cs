@@ -8,7 +8,7 @@ namespace Q1
 {
     class Employee
     {
-        //CodeComment Assam
+       
         public int ID;
         public string Name;
         public string Department;
